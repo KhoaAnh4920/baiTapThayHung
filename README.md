@@ -1,1 +1,2 @@
-# baiTapThayHung
+# thucHanhPHP
+Thực hành PHP 
